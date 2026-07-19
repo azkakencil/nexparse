@@ -1,0 +1,6 @@
+{
+  "name": "Cek NIK dan Lokasi",
+  "description": "Website modern dengan desain glassmorphism untuk validasi, parsing data NIK, dan pemetaan lokasi otomatis berdasarkan data NIK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
